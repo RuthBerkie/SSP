@@ -1,1 +1,1 @@
-# SSP
+# SkillSharing-platform
